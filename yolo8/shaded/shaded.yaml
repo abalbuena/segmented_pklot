@@ -1,0 +1,13 @@
+train: ../train/images
+val: /content/drive/MyDrive/Colab_Notebooks/split_validation/yolo8/shaded
+test: ../test/images
+
+nc: 2
+names: ['space-empty', 'space-occupied']
+
+roboflow:
+  workspace: brad-dwyer
+  project: pklot-1tros
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/brad-dwyer/pklot-1tros/dataset/1
