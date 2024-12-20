@@ -1,23 +1,13 @@
-cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
-authors:
-- family-names: "Almeida"
-  given-names: "Paulo"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "L"
-  given-names: "S"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Silva"
-  given-names: "Jr"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Britto"
-  given-names: "Jr"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Koerich"
-  given-names: "Alessandro"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "PKLot – A robust dataset for parking lot classification, Expert Systems with Applications, 42(11):4937-4949, 2015"
-version: 2.0.4
-doi: 10.1016/j.eswa.2015.02.009
-date-released: 2015-02-15
-url: "https://www.inf.ufpr.br/lesoliveira/download/ESWA2015.pdf"
+@misc{
+  parking-lot-fmzu9_dataset,
+  title = { Parking Lot Dataset },
+  type = { Open Source Dataset },
+  author = { ee541 },
+  howpublished = { \url{ https://universe.roboflow.com/ee541/parking-lot-fmzu9 } },
+  url = { https://universe.roboflow.com/ee541/parking-lot-fmzu9 },
+  journal = { Roboflow Universe },
+  publisher = { Roboflow },
+  year = { 2022 },
+  month = { may },
+  note = { visited on 2024-12-20 },
+}
