@@ -1,0 +1,5 @@
+train: '/content/drive/MyDrive/Colab_Notebooks/split_validation/yolo9/cloudy'
+val: '/content/drive/MyDrive/Colab_Notebooks/split_validation/yolo9/cloudy'
+
+nc: 2
+names: ['space-empty', 'space-occupied']
